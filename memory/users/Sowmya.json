@@ -1,0 +1,23 @@
+{
+  "user_id": "Sowmya",
+  "created_at": "2026-02-04T17:30:12.259310",
+  "conversations": [
+    {
+      "timestamp": "2026-02-04T17:30:12.259321",
+      "user_message": "I have a slight fever",
+      "bot_response": "Given your slight fever, it's possible you might be coming down with something like the common cold or flu. I recommend you stay hydrated by drinking plenty of fluids and get plenty of rest. If your symptoms worsen or you experience difficulty breathing, chest pain, or severe headache, seek medical attention immediately. Can you tell me if you're experiencing any other symptoms such as a sore throat, cough, or body aches? ⚠️ **DISCLAIMER**: This is informational only. See a doctor for medical advice.",
+      "metadata": {}
+    },
+    {
+      "timestamp": "2026-02-04T17:38:44.399045",
+      "user_message": "i am getting mad ",
+      "bot_response": "It sounds like you're feeling frustrated, which can be a symptom of various conditions, including anxiety or depression. I recommend trying some relaxation techniques, such as deep breathing or mindfulness, to help manage your emotions. Additionally, regular exercise and adequate sleep can also help reduce feelings of irritability. Can you tell me more about what's been causing you to feel mad, is it related to your current health or something else?",
+      "metadata": {}
+    }
+  ],
+  "preferences": {
+    "name": "Sowmya",
+    "known_conditions": [],
+    "allergies": []
+  }
+}

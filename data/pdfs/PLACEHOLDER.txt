@@ -1,0 +1,21 @@
+# Medical PDF Documents
+# ======================
+# Place your medical PDF files in this directory.
+# The chatbot will automatically load and index them.
+
+# Example PDF topics:
+# - Disease prevention guides
+# - Medication information leaflets
+# - Health and wellness articles
+# - Medical reference materials
+# - Treatment guidelines
+
+# Supported formats: .pdf files
+
+# To add a PDF:
+# 1. Copy your PDF file to this directory
+# 2. Rename it to something descriptive (e.g., "flu_guide.pdf")
+# 3. Rebuild the vector database with: python medical_chatbot.py --rebuild
+
+# Note: PDF files will be automatically loaded and processed
+# when you run the chatbot for the first time or with --rebuild flag.

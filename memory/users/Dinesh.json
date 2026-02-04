@@ -1,0 +1,71 @@
+{
+  "user_id": "Dinesh",
+  "created_at": "2026-02-01T10:07:36.354335",
+  "conversations": [
+    {
+      "timestamp": "2026-02-01T10:15:42.555290",
+      "user_message": "Dinesh",
+      "bot_response": "Given your sensitivity to sound and headache, it's possible that you may be experiencing a migraine. I recommend trying to rest in a quiet, dark room and using pain relievers to help alleviate the symptoms. It's also important to identify and avoid any triggers that may be causing your migraines. Are you experiencing any nausea or visual disturbances along with your headache and sensitivity to sound? ⚠️ **DISCLAIMER**: This is informational only. See a doctor for medical advice.",
+      "metadata": {}
+    },
+    {
+      "timestamp": "2026-02-01T10:15:58.998606",
+      "user_message": "these are my symptoms Absent or small knuckles",
+      "bot_response": "It seems like you're experiencing absent or small knuckles, which could be related to various conditions such as arthritis, injury, or genetic factors. I recommend consulting a doctor for a proper evaluation and diagnosis. In the meantime, you can try applying heat or cold packs to the affected area to help reduce any discomfort. Can you tell me if you've noticed any other symptoms, such as pain or limited mobility in your hands or fingers? ⚠️ **DISCLAIMER**: This is informational only. See a doctor for medical advice.",
+      "metadata": {}
+    },
+    {
+      "timestamp": "2026-02-01T10:15:59.131795",
+      "user_message": "Cleft palate",
+      "bot_response": "I apologize, but I encountered an error processing your query: Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01kb5fwt46f6pvnshv7hskkryt` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 90457, Requested 19921. Please try again in 2h29m26.592s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}\n\n\n⚠️ **IMPORTANT DISCLAIMER**\nI am an AI assistant, NOT a doctor. The information provided is for educational purposes only and should not be considered medical advice. Always consult with a qualified healthcare professional for diagnosis and treatment. If you are experiencing a medical emergency, please call your local emergency services immediately.\n",
+      "metadata": {}
+    },
+    {
+      "timestamp": "2026-02-01T10:15:59.764429",
+      "user_message": "Deformed ears",
+      "bot_response": "It seems like you're experiencing deformed ears, which could be related to various conditions such as injury, infection, or genetic factors. I recommend consulting an ear, nose, and throat specialist for a proper evaluation and treatment. \n\nCan you tell me more about when you first noticed the deformation and if you've experienced any other symptoms such as hearing loss or discomfort?\n\n⚠️ **DISCLAIMER**: This is informational only. See a doctor for medical advice.",
+      "metadata": {}
+    },
+    {
+      "timestamp": "2026-02-01T10:16:02.561803",
+      "user_message": "Droopy eyelids",
+      "bot_response": "For your droopy eyelids, I recommend trying some cold compresses and artificial tears to help alleviate any discomfort. It's also important to avoid touching your eyes and to wash your hands frequently to prevent any potential infection. \n\nCan you tell me if you're experiencing any other symptoms such as redness, itching, or discharge in your eyes?\n\n⚠️ **DISCLAIMER**: This is informational only. See a doctor for medical advice.",
+      "metadata": {}
+    },
+    {
+      "timestamp": "2026-02-01T10:16:02.678050",
+      "user_message": "Inability to fully extend the joints from birth",
+      "bot_response": "I apologize, but I encountered an error processing your query: Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01kb5fwt46f6pvnshv7hskkryt` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 99031, Requested 20221. Please try again in 4h37m13.728s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}\n\n\n⚠️ **IMPORTANT DISCLAIMER**\nI am an AI assistant, NOT a doctor. The information provided is for educational purposes only and should not be considered medical advice. Always consult with a qualified healthcare professional for diagnosis and treatment. If you are experiencing a medical emergency, please call your local emergency services immediately.\n",
+      "metadata": {}
+    },
+    {
+      "timestamp": "2026-02-01T10:16:02.769428",
+      "user_message": "Narrow shoulders",
+      "bot_response": "I apologize, but I encountered an error processing your query: Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01kb5fwt46f6pvnshv7hskkryt` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 99031, Requested 4701. Please try again in 53m44.448s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}\n\n\n⚠️ **IMPORTANT DISCLAIMER**\nI am an AI assistant, NOT a doctor. The information provided is for educational purposes only and should not be considered medical advice. Always consult with a qualified healthcare professional for diagnosis and treatment. If you are experiencing a medical emergency, please call your local emergency services immediately.\n",
+      "metadata": {}
+    },
+    {
+      "timestamp": "2026-02-01T10:16:02.847905",
+      "user_message": "Pale skin",
+      "bot_response": "I apologize, but I encountered an error processing your query: Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01kb5fwt46f6pvnshv7hskkryt` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 99031, Requested 5246. Please try again in 1h1m35.328s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}\n\n\n⚠️ **IMPORTANT DISCLAIMER**\nI am an AI assistant, NOT a doctor. The information provided is for educational purposes only and should not be considered medical advice. Always consult with a qualified healthcare professional for diagnosis and treatment. If you are experiencing a medical emergency, please call your local emergency services immediately.\n",
+      "metadata": {}
+    },
+    {
+      "timestamp": "2026-02-01T10:16:12.550337",
+      "user_message": "Triple-jointed thumbs",
+      "bot_response": "I apologize, but I encountered an error processing your query: Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01kb5fwt46f6pvnshv7hskkryt` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 99020, Requested 21016. Please try again in 4h48m31.104s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}\n\n\n⚠️ **IMPORTANT DISCLAIMER**\nI am an AI assistant, NOT a doctor. The information provided is for educational purposes only and should not be considered medical advice. Always consult with a qualified healthcare professional for diagnosis and treatment. If you are experiencing a medical emergency, please call your local emergency services immediately.\n",
+      "metadata": {}
+    },
+    {
+      "timestamp": "2026-02-01T10:16:46.952996",
+      "user_message": "hi",
+      "bot_response": "I apologize, but I encountered an error processing your query: Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01kb5fwt46f6pvnshv7hskkryt` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 98980, Requested 5141. Please try again in 59m20.544s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}\n\n\n⚠️ **IMPORTANT DISCLAIMER**\nI am an AI assistant, NOT a doctor. The information provided is for educational purposes only and should not be considered medical advice. Always consult with a qualified healthcare professional for diagnosis and treatment. If you are experiencing a medical emergency, please call your local emergency services immediately.\n",
+      "metadata": {}
+    }
+  ],
+  "preferences": {
+    "name": "Dinesh",
+    "known_conditions": [],
+    "allergies": []
+  }
+}
