@@ -29,7 +29,14 @@ A friendly, professional medical chatbot powered by **Groq API** with a **Retrie
    git clone <your-repo-url>
    cd Sowmya
    ```
-
+**Create a Virtual Environment**
+```bash
+   Python -m venv venv
+   
+```
+```bash
+   .\venv\Scripts\Activate.ps1
+```
 2. **Install dependencies**
    ```bash
    pip install -r requirements.txt
